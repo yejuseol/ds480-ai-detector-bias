@@ -1,0 +1,22 @@
+[
+  {
+    "file": "TOEFL_data.json",
+    "url": "https://raw.githubusercontent.com/Weixin-Liang/ChatGPT-Detector-Bias/main/Data_and_Results/Human_Data/TOEFL_real_91/data.json",
+    "sha256": "d5e2bf0bd4831262d60aa936b2ac8e532bd3859067411288b6c22ed16867666b"
+  },
+  {
+    "file": "TOEFL_GPTZero.json",
+    "url": "https://raw.githubusercontent.com/Weixin-Liang/ChatGPT-Detector-Bias/main/Data_and_Results/Human_Data/TOEFL_real_91/GPTZero.json",
+    "sha256": "0f3d39d382b3d7146db19535b269dc3e7f4c5ce0a6ca704972d71e585d8f3f37"
+  },
+  {
+    "file": "US_student_data.json",
+    "url": "https://raw.githubusercontent.com/Weixin-Liang/ChatGPT-Detector-Bias/main/Data_and_Results/Human_Data/HewlettStudentEssay_real_88/data.json",
+    "sha256": "6145e4e8bf36b780624626b31a783d7ca97696e1e14ae6d13c083b79da2f042d"
+  },
+  {
+    "file": "US_student_GPTZero.json",
+    "url": "https://raw.githubusercontent.com/Weixin-Liang/ChatGPT-Detector-Bias/main/Data_and_Results/Human_Data/HewlettStudentEssay_real_88/GPTZero.json",
+    "sha256": "f08aa8d89a0d1fd3cf84ea5080beca6d4d18f33907c6032ac9f663cae54f20bb"
+  }
+]

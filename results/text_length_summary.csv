@@ -1,0 +1,3 @@
+group,essays,minimum_words,median_words,maximum_words,below_100_words,recorded_warnings
+TOEFL,30,62,104.0,144,8,8
+US_student,30,176,400.5,677,0,0
